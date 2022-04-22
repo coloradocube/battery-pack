@@ -1,5 +1,0 @@
-(fp_lib_table
-  (lib (name "Battery holder")(type "KiCad")(uri "/Users/danieltucker/Desktop/Battery holder/Parts/ul_1042/KiCAD/2022-01-26_19-30-56/footprints.pretty")(options "")(descr ""))
-  (lib (name "Connecter")(type "KiCad")(uri "/Users/danieltucker/Desktop/Battery holder/Parts/ul_436500212/KiCAD/2022-02-18_20-41-01/footprints.pretty")(options "")(descr ""))
-  (lib (name "Fuse holder")(type "KiCad")(uri "/Users/danieltucker/Desktop/Battery holder/Parts/ul_65800001009/KiCAD/2022-02-21_19-58-52/footprints.pretty")(options "")(descr ""))
-)
